@@ -1,6 +1,6 @@
 # Hi there! :+1:
 
-Senior software developer with 17+ years of experience developing software.
+Senior software engineer with 17+ years of experience developing software.
 
 Examples of technologies that I've worked include REST APIs, text search using Apache Solr, message queues with RabbitMQ, cache with Redis, relational databases as Postgresql and Oracle and NoSql databases as MongoDB. I've also worked with high traffic, high availability and high scalability websites, especially using the Java language.
 
