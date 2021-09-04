@@ -13,7 +13,7 @@ I also have experience working remotely. As a Senior Software Engineer I've work
 Currently I'm also working with Python and AWS ( Lambda, SQS, DynamoDB, RDS, Redis, Cloud Formation, Cloud Watch).
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkaraujo&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rkaraujo&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkaraujo&theme=vue)
 
 <!--
 **rkaraujo/rkaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
