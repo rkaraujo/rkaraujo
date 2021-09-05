@@ -29,7 +29,6 @@ I am experienced working remotely / WFH. As a Senior Software Engineer I've work
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkaraujo&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkaraujo&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkaraujo&layout=compact)]
 
 <!--
 **rkaraujo/rkaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
