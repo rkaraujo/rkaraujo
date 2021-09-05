@@ -2,15 +2,30 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rkaraujo)](https://www.linkedin.com/in/rkaraujo)
 
-Senior software engineer with 17+ years of experience developing software.
+Senior Software Engineer / Developer with 18+ years of experience coding software, a hands on developer that implemented several software solutions. Currently working as a Backend Developer.
 
-Examples of technologies that I've worked include REST APIs, text search using Apache Solr, message queues with RabbitMQ, cache with Redis, relational databases as Postgresql and Oracle and NoSql databases as MongoDB. I've also worked with high traffic, high availability and high scalability websites, especially using the Java language.
+Skills:
+* Java 8 and 11, Python
+* Spring boot and Hibernate frameworks
+* Postgresql, MySQL, Oracle and relational databases
+* MongoDB, Redis
+* AWS (Lambda, SQS, DynamoDB, Elasticache, Cloud Formation, EC2, S3, RDS / Aurora)
+* REST APIs
+* Kafka, RabbitMQ, Messaging
+* JUnit, unit tests, TDD
+* Maven
+* Git, Github, Bitbucket
+* Docker, Kubernetes
+* Design Patterns, Refactoring
+* New Relic, Java code optimization, memory usage reduction, Yourkit Profiler tool
+* High availability, Scalability
+* High traffic websites
 
-I'm very experienced with the frameworks Spring (Spring Boot, Spring Data and Spring MVC), Hibernate / JPA, the Maven building tool and Linux.
+Certifications:
+* Spring Professional - Pivotal certified
+* Certified Java Programmer
 
-I also have experience working remotely. As a Senior Software Engineer I've worked in a full remote position for about three years.
-
-Currently I'm also working with Python and AWS ( Lambda, SQS, DynamoDB, RDS, Redis, Cloud Formation, Cloud Watch).
+I am experienced working remotely / WFH. As a Senior Software Engineer I've worked in a full remote position for about three years.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkaraujo&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkaraujo&theme=vue)
