@@ -5,8 +5,9 @@
 Senior Software Engineer / Backend Developer with 20+ years of experience coding software, a hands on developer that implemented several software solutions.
 
 Skills:
-* Java 8 and 11, Python
+* Java, Python
 * Spring boot and Hibernate frameworks
+* Django
 * Postgresql, MySQL, Oracle and relational databases
 * MongoDB, Redis
 * AWS (Lambda, SQS, DynamoDB, Elasticache, Cloud Formation, EC2, S3, RDS / Aurora)
