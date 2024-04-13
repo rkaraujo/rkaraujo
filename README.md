@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rkaraujo)](https://www.linkedin.com/in/rkaraujo)
 
-Senior Software Engineer / Backend Developer with 20+ years of experience coding software, a hands on developer that implemented several software solutions.
+Experienced / Senior Software Engineer with 20+ years of experience coding software, a hands on developer that implemented several software solutions.
 
 Skills:
 * Java, Python
