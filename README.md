@@ -18,9 +18,6 @@ Skills:
 * Git, Github, Bitbucket
 * Docker, Kubernetes
 * Design Patterns, Refactoring
-* New Relic, Java code optimization, memory usage reduction, Yourkit Profiler tool
-* High availability, Scalability
-* High traffic websites
 
 Certifications:
 * Spring Professional - Pivotal certified
