@@ -5,19 +5,18 @@
 Experienced / Senior Software Engineer with 20+ years of experience coding software, a hands on developer that implemented several software solutions.
 
 Skills:
-* Java, Python
-* Spring boot and Hibernate frameworks
-* Django
-* Postgresql, MySQL, Oracle and relational databases
-* MongoDB, Redis
-* AWS (Lambda, SQS, DynamoDB, Elasticache, Cloud Formation, EC2, S3, RDS / Aurora)
-* REST APIs
-* Kafka, RabbitMQ, Messaging
-* JUnit, unit tests, TDD
-* Maven
-* Git, Github, Bitbucket
-* Docker, Kubernetes
-* Design Patterns, Refactoring
+* Programming Languages: Java, Python, Typescript
+* Frameworks / runtime: Spring Boot, Django, Node.js
+* Databases: SQL, Postgresql, MySQL, Oracle
+* NoSQL databases: MongoDB, Redis
+* Messaging: RabbitMQ, Kafka
+* Cloud: AWS (S3, SQS, RDS / Aurora, Lambda, EC2)
+* Frontend: HTML, CSS, Javascript, React, Angular
+* System types: REST APIs, microservices, web applications
+* Tools: Git, Github, Docker, Kubernetes
+* CI/CD: Jenkins, CircleCI
+* Agile methodologies: Scrum, Kanban
+* Other: Unit tests (JUnit, Mockito), Design Patterns, Refactoring, OOP (Object Oriented Programming)
 
 Certifications:
 * Spring Professional - Pivotal certified
