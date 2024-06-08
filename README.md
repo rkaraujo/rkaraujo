@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rkaraujo)](https://www.linkedin.com/in/rkaraujo)
 
-Experienced / Senior Software Engineer with 20+ years of experience coding software, a hands on developer that implemented several software solutions.
+Senior Software Engineer with expertise in backend development and the ability to contribute as a full-stack developer. Hands-on developer with expert Java development skills and proficiency in Python. Working knowledge of TypeScript, NodeJS, and the frontend frameworks React and Angular.
 
 Skills:
 * Programming Languages: Java, Python, Typescript
@@ -21,8 +21,6 @@ Skills:
 Certifications:
 * Spring Professional - Pivotal certified
 * Certified Java Programmer
-
-I am experienced working remotely / WFH. As a Senior Software Engineer I've worked in a full remote position for about three years.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkaraujo&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkaraujo&theme=vue)
